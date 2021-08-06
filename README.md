@@ -2,8 +2,8 @@
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">macacaio</a>!
-(Use dark theme to find my socials ;)
+## ola sou o <a href="https://aakarsh.me" target="_blank">macacaio</a>!
+nao sei oq escrever aq
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
