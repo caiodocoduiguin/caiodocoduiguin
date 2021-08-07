@@ -1,7 +1,3 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
-
 ## ola sou o <a href="https://aakarsh.me" target="_blank">macacaio</a>!
 nao sei oq escrever aq
 
